@@ -82,6 +82,9 @@ nav li a{
     font-size: 14px;
     margin: 10px 0;
 }
+.produtos{
+    margin-bottom: 50px;
+}
 .produto button{
     width: 100%;
     background-color:rgb(226, 59, 59) ;
